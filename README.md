@@ -15,7 +15,7 @@ Android Oreo imposed various kind restriction limitation in performing baackgrou
 
 After Android oreo android give solution for background services, one is Foreground Service and Second one is JobItentService. 
 
-Reference Article - [Foreground Service](https://androidwave.com/foreground-service-android-example/) 
+**Reference Article** - [Foreground Service](https://androidwave.com/foreground-service-android-example/) 
 
-Reference Article - [JobIntentService](https://androidwave.com/working-with-jobintentservice/)
+**Reference Article** - [JobIntentService](https://androidwave.com/working-with-jobintentservice/)
 
